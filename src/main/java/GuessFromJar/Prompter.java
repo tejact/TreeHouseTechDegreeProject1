@@ -12,8 +12,4 @@ class Prompter {
 		System.out.println(prompt);
 		return scanner.next();
 	}
-
-	public void outToUser(String prompt) {
-		System.out.println(prompt);
-	}
 }

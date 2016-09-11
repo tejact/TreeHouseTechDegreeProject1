@@ -43,22 +43,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "src/main/java/Game.java",
-			"settings":
-			{
-				"buffer_size": 561,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/main/java/Jar.java",
-			"settings":
-			{
-				"buffer_size": 287,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -143,7 +127,6 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/Teja/Desktop/TreeHouseTD/Project1",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java",
@@ -152,18 +135,18 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Jar.java",
+		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Game.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/test/java/GameTest.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Player2.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/test/java/JarTest.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Player.java",
-		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Jar.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Administrator.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Prompter.java",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Player",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Administrator",
 		"/C/Users/Teja/AppData/Roaming/Sublime Text 3/Packages/Javatar/Developers/Proto.javatar-packages",
 		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/terminal.glue",
-		"/C/Users/Teja/Desktop/TreeHouseTD/Project1/src/main/java/Game.java",
 		"/C/Users/Teja/AppData/Roaming/Sublime Text 3/Packages/Glue/messages/help.txt",
 		"/C/Users/Teja/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/Teja/git/SparkWebApplicationTreeHouse/SparkWebApplicationTreeHouse/src/main/resources/templates/index.hbs",
@@ -215,68 +198,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "src/main/java/Game.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 561,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								262,
-								262
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/main/java/Jar.java",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 287,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								287,
-								287
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Java/Java.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
